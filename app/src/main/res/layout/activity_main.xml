@@ -6,11 +6,9 @@
     android:layout_height="match_parent"
     tools:context="com.example.viewpractice.MainActivity">
 
-    <com.example.viewpractice.customView.MyView
+    <com.example.viewpractice.customView.PlanetView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:lineColor="#ffffff"
-        app:bgColor="@color/colorPrimary"
         />
 
 </RelativeLayout>
